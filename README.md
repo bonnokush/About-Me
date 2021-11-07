@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bonnokush
 - 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning JavaScript & XML.
+- 🌱 I’m currently learning Kotlin.
 - 💞️ I’m looking to collaborate on Android Projects.
 - 📫 How to reach me : Email: malik.bikash219@gmail.com
 
